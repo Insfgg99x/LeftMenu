@@ -1,0 +1,1 @@
+![](https://github.com/Insfgg99x/FGGAutomaticScrollView/blob/master/demo.gif)<br>
